@@ -1,0 +1,7 @@
+numero=81
+print("O dobro de 81 é",81*2)
+print("O Triplo de 81 é",81*3)
+
+import math
+raiz_quadrada=math.sqrt(81)
+print("A raiz quadrada de",numero," é ",raiz_quadrada)
